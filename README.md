@@ -1,7 +1,7 @@
 # AE502-Homework-2
-This is a repository holding the work done for homework for AE502.
+This is a repository holding the Matlab work complete for homework for AE502.
 
-Running the following scripts should produce all the calculations and work needed to provide the data used to 
+Running the following scripts should produce all the calculations used to 
 generate the report on grade scope.
 
 ## H2Q1.m
